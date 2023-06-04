@@ -1,0 +1,23 @@
+Gra polega na odgadywaniu slowa, ktore jest losowo wybierane puli slow. Na poczatku 
+gry widoczne sa jedynie puste miejsca reprezentujace litery slowa do odgadniecia.
+Gracz ma ograniczona liczbe prob (7), aby odgadnac wylosowane slowo. Wylosowane
+slowo nie zawiera polskich znakow. Gracz wprowadza pojedyncze litery jako swoje
+zgadywania.
+- Jesli wprowadzona litera znajduje sie w odgadywanym slowie, zostaje ona odslonieta 
+  na odpowiednim miejscu.
+- Jesli wprowadzona litera nie znajduje sie w odgadywanym slowie, liczba pozostalych
+  prob zostaje zmniejszona o jeden.
+Gra konczy sie w jednym z dwoch przypadkow:
+- Gracz odgadnie wszystkie litery slowa, co oznacza wygrana. Gracz zdobywa wtedy 1 
+  punkt.
+- Gracz wykorzysta wszystkie proby i nie odgadnie slowa, co oznacza przegrana i 0
+  zdobytych punktow.
+
+	Dostepne tryby gry:
+Tryb jednoosobowy:
+- Grasz sam przeciwko losowo wybranemu slowu.
+Tryb dwuosobowy:
+- Gracz 1 podaje slowo, a Gracz 2 probuje je odgadnac. Nastepnie role sie odwracaja.
+Tryb z komputerem:
+- Grasz przeciwko komputerowi. Najpierw probujesz odgadnac wybrane przez komputer 
+slowo, a nastepnie komputer probuje odgadnac Twoje slowo.

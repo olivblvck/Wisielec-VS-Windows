@@ -1,0 +1,17 @@
+03.06.2023	01:58:20	Rozpoczecie pracy programu.
+03.06.2023	01:58:27	Wyswietlenie instrukcji gry.
+03.06.2023	01:58:33	Rozpoczecie gry w trybie jednoosobowym.
+03.06.2023	01:58:50	Zakonczenie gry w trybie jednoosobowym.
+03.06.2023	01:58:54	Rozpoczecie gry w trybie dwuosobowym.
+03.06.2023	01:59:22	Zakonczenie gry w trybie dwuosobowym.
+03.06.2023	01:59:30	Rozpoczecie gry w trybie z komputerem.
+03.06.2023	02:01:09	Zakonczenie gry w trybie z komputerem.
+03.06.2023	02:01:11	Wyswietlenie rankingu graczy.
+03.06.2023	02:02:07	Zakonczenie pracy programu.
+03.06.2023	02:36:15	Rozpoczecie pracy programu.
+03.06.2023	02:36:23	Wyswietlenie rankingu graczy.
+03.06.2023	02:36:31	Rozpoczecie gry w trybie jednoosobowym.
+03.06.2023	02:36:56	Zakonczenie gry w trybie jednoosobowym.
+03.06.2023	02:36:58	Wyswietlenie rankingu graczy.
+03.06.2023	02:37:03	Wyswietlenie instrukcji gry.
+03.06.2023	02:37:51	Zakonczenie pracy programu.
